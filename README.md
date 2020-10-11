@@ -1,5 +1,6 @@
 
 # TriNetFi
+Release Date: **End of October or First Week of November**
 
 *Do you want to build one but the kit and license of WiFi Hotspot so expensive?
 Well, You are in the right place!*
@@ -18,15 +19,23 @@ Well, You are in the right place!*
  9. Centralized / Multi Vendo
 
 
-### Special Thanks to our Sponsor
+## Special Thanks to our Sponsor
 
  1. Gamerscore (gamerscore.ph)
 
-#### Developers
+## Contributors
+Thanks goes to these wonderful people*
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sweeeeep"><img src="https://avatars.githubusercontent.com/u/13380637?v=3" width="100px;" alt=""/><br /><sub><b>Raeywen Regachuelo</b> </sub></a></td>
+    <td align="center"><a href="https://github.com/crs26"><img src="https://avatars.githubusercontent.com/u/55611653?v=3" width="100px;" alt=""/><br /><sub><b>Christian Salvadora</b></sub></a> </td>
+  </tr>
+</table>
 
- 1. Rae @Sweeeeep
- 2. Christian Salvadora @crs26
+<!-- markdownlint-enable -->
 
 *We are also looking for a beta-tester max of 10 people.*
 
-Release Date: **End of October or First Week of November**
+## License
+[MIT](https://github.com/TridentNetwork/TriNetFi/blob/main/LICENSE)
