@@ -3,7 +3,9 @@
 Release Date: **End of October or First Week of November**
 
 *Do you want to build one but the kit and license of WiFi Hotspot so expensive?
+
 Well, You are in the right place!*
+
 ***TriNetFi** is a Freeware Vendo Machine for WiFi Hotspot, which you allow to monetize your Internet Connection. You can run TriNetFi using NodeMCU. The only requirement is to have a Mikrotik Router which you will configure later.*
 
 #### Key Features:
